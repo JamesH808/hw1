@@ -1,0 +1,28 @@
+Script started on 2023-02-02 19:50:22-08:00
+]0;jaholt@WWWSTU-P01:~/hw1[jaholt@WWWSTU-P01 hw1]$ gcc -Wall -ansi initials.c -o initials
+]0;jaholt@WWWSTU-P01:~/hw1[jaholt@WWWSTU-P01 hw1]$ exit[K[K[K[K./initials[K[K[K[K[K[K[Knitials 
+
+ JJ         J
+J           J
+ JJ         J
+   JJJJJJJJJJ
+            J
+            J
+            J
+
+KKKKKKKKKKKKK
+      K      
+    KK KK    
+  KK     KK  
+ K         K 
+
+HHHHHHHHHHHHH
+      H      
+      H      
+      H      
+HHHHHHHHHHHHH
+
+]0;jaholt@WWWSTU-P01:~/hw1[jaholt@WWWSTU-P01 hw1]$ exit
+exit
+
+Script done on 2023-02-02 19:51:07-08:00
